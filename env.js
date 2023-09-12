@@ -1,0 +1,1 @@
+export const CATEGORIES_API_URL ="www.themealdb.com/api/json/v1/1/categories.php"
